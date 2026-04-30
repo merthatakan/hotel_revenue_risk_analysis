@@ -1,4 +1,4 @@
-# hotel revenue risk analysis
+# Hotel Revenue Risk Analysis
 This repository contains a comprehensive **Business Intelligence (BI)** framework designed to mitigate operational risks in the hospitality sector. The project focuses on quantifying the financial impact of booking cancellations  and establishing data-driven thresholds for risk management.
 
 ## Strategic Objectives
